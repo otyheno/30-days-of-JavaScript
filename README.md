@@ -5,8 +5,11 @@ Link https://openweathermap.org/
 
 
 Day 2.
-Implemented a wTo do list which utilizes browser local storage
+Implemented a To do list which utilizes browser local storage
 
 
 Day 3.
-Implemented
+Implemented Quiz app
+
+Day 4
+Random password generator
